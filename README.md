@@ -8,9 +8,9 @@ Here's the list, which i've taken from [here](https://hackr.io/blog/python-proje
 
 The first project on there is Hangman, which i'm not going to attempt first up with the GUI, so instead i'll replace that project with the first program here, which is to edit this file with a list of all projects listed on that webpage, with the exception of the first one:
 
-1. Python Hangman Game with GUI
-2. Mad Libs Generator 
-3. Number Guessing 
+1. ~~Update README with project list from webpage~~
+2. Mad Libs Generator
+3. Number Guessing
 4. Rock Paper Scissors
 5. Dice Roll Generator
 6. Password Strength Checker
@@ -38,4 +38,4 @@ The first project on there is Hangman, which i'm not going to attempt first up w
 28. Site Connectivity Checker
 29. Language Detector
 30. Netflix Recommendation System
-Bonus Project: Age Calculator
+    Bonus Project: Age Calculator
