@@ -11,8 +11,8 @@ The first project on there is Hangman, which i'm not going to attempt first up w
 1. ~~Update README with project list from webpage~~
 2. ~~Mad Libs Generator~~
 3. ~~Number Guessing~~
-4. Rock Paper Scissors
-5. Dice Roll Generator
+4. ~~Rock Paper Scissors~~
+5. ~~Dice Roll Generator~~
 6. Password Strength Checker
 7. Number to Words
 8. Tic-Tac-Toe Game
